@@ -1,0 +1,2 @@
+{firstName:Jonny lastName:Snow age:45 contact:{Id:1 email:abc@gmail.com}}
+{firstName:karan lastName:kundra age:25 contact:{Id:2 email:pqr@gmail.com}}
